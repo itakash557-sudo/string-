@@ -59,3 +59,4 @@ print(name.count("a"))    # Output: 2
 
 # replace(): replaces substring with another
 print(name.replace("s", "it")) # Output: akait it
+
