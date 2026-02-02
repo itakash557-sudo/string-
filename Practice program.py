@@ -1,11 +1,11 @@
-// palindrome program
+#palindrome program
 name=input("enter the word:")
 if name [::-1] == name:
   print("palindrome")
 else:
   print("not a palindrome")
 
-//count vowels and consonants
+#count vowels and consonants
 
 s = input("Enter a string: ")
 
