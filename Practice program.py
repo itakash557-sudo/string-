@@ -1,4 +1,4 @@
-//palindrome program
+// palindrome program
 name=input("enter the word:")
 if name [::-1] == name:
   print("palindrome")
